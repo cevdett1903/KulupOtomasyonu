@@ -1,0 +1,1 @@
+mysqlconnector.jar kütüphanesi ile yapıldı xampp kullanılarak database oluşturuldu database ana dosyada "testerdb.sql" dosyasıdır.Lütfen ilk başta testerdb databaseni php myadminde oluşturun sonra içe aktarın. 
